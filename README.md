@@ -7,6 +7,3 @@ npm install
 
 3) In order to run the application Type the following command
 npm start
-
-
-The Application Runs on **localhost:3000**
